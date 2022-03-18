@@ -22,5 +22,6 @@ https://python.land/deep-dives/python-try-except
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/assignments/
 
 <img width="1145" alt="Screen Shot 2022-03-17 at 9 35 45 PM" src="https://user-images.githubusercontent.com/97067231/158938670-020b6aaf-f190-421b-8b99-a389c2183876.png">
-This image shows 
+This image shows the cheat hint.
 <img width="1133" alt="Screen Shot 2022-03-17 at 9 35 12 PM" src="https://user-images.githubusercontent.com/97067231/158938708-0993593f-f2fc-4876-b60d-830afa2ad2be.png">
+This image shows an example game.
