@@ -13,7 +13,7 @@ How to run it:
 There should be a space for you to input after you run the above code. 
 When you input "cheat", the word appear. You are expected to see "You cheat but you win this game." 
 When you input "show", it shows all the same letters in the secret word each time and the available times and letters left and you continue guessing until you win or lose.
-When you input "dele", it deletes a letter that doesn't belong to the secret word as a hint
+When you input "dele", it deletes some letters that don't belong to the secret word as a hint
 When you guess a letter, it will tell you if it's right or wrong, and you continue guessing until you win or lose.
 
 
