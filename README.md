@@ -27,3 +27,4 @@ Our assignment is different because we implemented exception handling, different
 This image shows the cheat hint.
 <img width="1133" alt="Screen Shot 2022-03-17 at 9 35 12 PM" src="https://user-images.githubusercontent.com/97067231/158938708-0993593f-f2fc-4876-b60d-830afa2ad2be.png">
 This image shows an example game.
+The output will also show a list of available letters and letters already guessed. It will show an empty _ if that letter hasn't been guessed yet. Output will also show how many chances you have left.
