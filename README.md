@@ -20,3 +20,4 @@ When you guess a letter, it will tell you if it's right or wrong, and you contin
 Reference:
 https://python.land/deep-dives/python-try-except
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/assignments/
+<img width="1145" alt="Screen Shot 2022-03-17 at 9 35 45 PM" src="https://user-images.githubusercontent.com/97067231/158938670-020b6aaf-f190-421b-8b99-a389c2183876.png">
